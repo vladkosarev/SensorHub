@@ -1,0 +1,8 @@
+{
+  "name": "SensorHub",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.10.3",
+    "tingodb": "^0.3.1"
+  }
+}
