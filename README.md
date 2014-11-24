@@ -18,8 +18,10 @@ At this point you have a web server running on port 3000 that can read and write
 
 
 To write to a sensor - http://localhost:3000/writeSensorData?sensor=[sensorName]&value=[readingValue]
+
 For example - http://localhost:3000/writeSensorData?sensor=light&value=7
 
 
 To read sensor data - http://localhost:3000/readSensorData?sensor=[sensorName]
+
 For example http://localhost:3000/readSensorData?sensor=light
